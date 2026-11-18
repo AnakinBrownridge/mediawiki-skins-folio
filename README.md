@@ -1,2 +1,2 @@
 # Folio
-A newspaper-inspired MediaWiki skin
+A modern, newspaper-inspired MediaWiki skin featuring light/dark modes and customizable accent colors.
