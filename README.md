@@ -1,2 +1,2 @@
-# mediawiki-skins-folio
+# Folio
 A newspaper-inspired MediaWiki skin
